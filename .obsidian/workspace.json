@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "44643ca6b326112a",
+    "type": "split",
+    "children": [
+      {
+        "id": "06d95550f4efbe74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1376589f5d62848e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introducción a Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introducción a Obsidian"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6d82aad31a394455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00bbc0efef150efd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e22194aea5858b73",
+    "type": "split",
+    "children": [
+      {
+        "id": "565885de3f2a3262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55950cce8e50f0bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e4208d8db460d76e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a089f2e19d7928c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "359aa5016c769de6",
+    "type": "split",
+    "children": [
+      {
+        "id": "64b80bc75d1349aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b205bb5a571e6e01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introducción a Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introducción a Obsidian"
+            }
+          },
+          {
+            "id": "db05e0014f13e1aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introducción a Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introducción a Obsidian"
+            }
+          },
+          {
+            "id": "b78a214e6023c9a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c00e56b64d7719fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introducción a Obsidian.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introducción a Obsidian"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1376589f5d62848e",
+  "lastOpenFiles": [
+    "CSS.md",
+    "Introducción a Obsidian.md",
+    "WYSIWYG.md",
+    "Markdown en Obsidian.md",
+    "[.md",
+    "Welcome.md"
+  ]
+}
